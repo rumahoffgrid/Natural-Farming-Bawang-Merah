@@ -1,0 +1,6 @@
+{
+  "name": "Agri-Smart Bawang Merah",
+  "description": "Aplikasi manajemen budidaya bawang merah presisi berbasis teknik organik Jeevamrutham dan analisis kesehatan tanaman bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
