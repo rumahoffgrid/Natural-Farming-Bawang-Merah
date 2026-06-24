@@ -179,9 +179,9 @@ export default function App() {
                 <div>
                   <span className="text-emerald-400"># Langkah 1: Kloning repositori dan masuk ke folder proyek</span>
                   <br />
-                  <span className="text-slate-400">git clone https://github.com/username/agri-smart-bawang-merah.git</span>
+                  <span className="text-slate-400">git clone https://github.com/rumahoffgrid/Natural-Farming-Bawang-Merah.git</span>
                   <br />
-                  <span className="text-slate-400">cd agri-smart-bawang-merah</span>
+                  <span className="text-slate-400">cd Natural-Farming-Bawang-Merah</span>
                 </div>
                 <div>
                   <span className="text-emerald-400"># Langkah 2: Instal semua dependensi frontend dan backend</span>
